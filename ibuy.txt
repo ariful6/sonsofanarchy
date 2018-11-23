@@ -1,3 +1,6 @@
 
+The app will alllow a user to choose a store based on the preferences which is in main activity.
+Next phase or activity it will provide the information regarding list of items available in the store.
+After that it will take to the next activy which will show the lists of selected items and total price.
+Finally it will ask for the customer information.
 
-welcome to the club
